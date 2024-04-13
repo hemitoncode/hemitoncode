@@ -1,7 +1,7 @@
 # Hi 👋🏽 It's Hemit...
 
 ## 💫 About Me:
-I am a passionate developer from Toronto, Canada. I have been coding since the age of 10 (2019) and have a strong understanding in React and NodeJS.<br><br>🔭 I’m currently working on ... React/React Native projects<br>🌱 I’m currently learning ... Java, React and Typescript<br>👯 I’m looking to collaborate on ... Web/React Native projects<br>💬 Ask me about ... full-stack development<br>📫 How to reach me: ... patelvhemit@gmail.com
+I am a passionate **full-stack** developer from Toronto, Canada. I have been coding since the age of 10 (2019) and have a strong understanding in React and NodeJS.<br><br>🔭 I’m currently working on ... React/React Native projects<br>🌱 I’m currently learning ... Java, React and Typescript<br>👯 I’m looking to collaborate on ... Web/React Native projects<br>💬 Ask me about ... full-stack development<br>📫 How to reach me: ... patelvhemit@gmail.com
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hemit99123&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
