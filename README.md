@@ -3,6 +3,14 @@
 # 💫 About Me:
 Currently, a high school student. I am a passionate full-stack developer from Toronto, Canada. I have been coding since the age of 10 (2019) and have a strong understanding in React and NodeJS.<br><br>🔭 I’m currently working on ... React/React Native projects<br>🌱 I’m currently learning ... Typescript <br>👯 I’m looking to collaborate on ... Web/React Native projects<br>💬 Ask me about ... full-stack development<br>📫 How to reach me: ... hemitvpatel@gmail.com
 
+## PRODUEST Projects:
+
+- Talem (www.talem.org) -> reached over 200k lifetime users, 400 DAU, over 3k raised in funding
+- Trashify -> learnt a lot of concepts such as db indexing, caching, cdn and even connection pooling which all helped improve my API callstack to an impressive 30ms during good wifi!
+
+I have worked on much more (many freelance gigs too) which all helped shape me into the developer I am today! But these two are the ones that truly show my shine as a full-stack developer!
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemit-patel-383ab3271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hemitdev) 
 
