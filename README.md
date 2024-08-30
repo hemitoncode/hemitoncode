@@ -7,6 +7,7 @@ Currently, a high school student. I am a passionate full-stack developer from To
 
 - Talem (www.talem.org) -> reached over 200k lifetime users, 400 DAU, over 3k raised in funding
 - Trashify -> learnt a lot of concepts such as db indexing, caching, cdn and even connection pooling which all helped improve my API callstack to an impressive 30ms during good wifi!
+- Trashify AI Mircoservice -> a mircoservice built on-top of gRPC which is the best API archetirutre for server to server communication. Used this to add AI to my app through the SciKit Learn lib on Python!
 
 I have worked on much more (many freelance gigs too) which all helped shape me into the developer I am today! But these two are the ones that truly show my shine as a full-stack developer!
 
