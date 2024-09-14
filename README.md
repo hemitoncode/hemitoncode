@@ -3,15 +3,25 @@
 # 💫 About Me:
 Currently, a high school student. I am a passionate full-stack developer from Toronto, Canada. I have been coding since the age of 10 (2019) and have a strong understanding in React and NodeJS.<br><br>🔭 I’m currently working on ... React/React Native projects<br>🌱 I’m currently learning ... Typescript and the CLOUD (AWS)<br>👯 I’m looking to collaborate on ... Web/React Native projects<br>💬 Ask me about ... full-stack development<br>📫 How to reach me: ... hemitvpatel@gmail.com
 
-## PROUDEST Projects:
+## Proudest Projects
 
-- Talem (www.talem.org) -> reached over 200k lifetime users, 400 DAU, over 3k raised in funding
-- Trashify -> learnt a lot of concepts such as db indexing, caching, cdn and even connection pooling which all helped improve my API callstack to an impressive 30ms during good wifi!
-- Trashify AI Mircoservice -> a mircoservice built on-top of gRPC which is the best API architecture for server to server communication. Used this to add AI to my app through the SciKit Learn lib on Python!
-- DailySAT.tech which is an AI model being trained to help students practice for the SAT test (an American college entrance exam) The website has amassed over 1k users in a very short time period!
+- **Talem** ([www.talem.org](http://www.talem.org))
+  - Achievements: Over 200k lifetime users, 400 daily active users
+  - Funding: Raised over $3k
 
-I have worked on much more (many freelance gigs too) which all helped shape me into the developer I am today! But these two are the ones that truly show my shine as a full-stack developer!
+- **Trashify**
+  - Key Learnings: Database indexing, caching, CDN, connection pooling
+  - Performance: Improved API call stack to an impressive 30ms during good Wi-Fi
 
+- **Trashify AI Microservice**
+  - Architecture: Built on gRPC for optimal server-to-server communication
+  - Technology: Integrated AI using SciKit Learn in Python
+
+- **DailySAT.tech**
+  - Purpose: Question bank help students practice for the SAT (American college entrance exam)
+  - Growth: Over 6k users in a very short time period
+
+**I have worked on much more (many freelance gigs too) which all helped shape me into the developer I am today! But these two are the ones that truly show my shine as a full-stack developer!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemit-patel-383ab3271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hemitdev) 
