@@ -14,7 +14,7 @@ Currently, a high school student. I am a passionate full-stack developer from To
   - Performance: Improved API call stack to an impressive 30ms during good Wi-Fi
 
 - **Trashify AI Microservice**
-  - Architecture: Built on gRPC for optimal server-to-server communication
+  - Architecture: Built on gRPC for optimal server-to-server communication with the main NextJS project
   - Technology: Integrated AI using SciKit Learn in Python
 
 - **DailySAT.tech**
