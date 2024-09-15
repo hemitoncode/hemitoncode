@@ -21,8 +21,6 @@ Currently, a high school student. I am a passionate full-stack developer from To
   - Purpose: Question bank help students practice for the SAT (American college entrance exam)
   - Growth: Over 6k users in a very short time period
 
-**I have worked on much more (many freelance gigs too) which all helped shape me into the developer I am today! But these two are the ones that truly show my shine as a full-stack developer!**
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemit-patel-383ab3271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hemitdev) 
 
