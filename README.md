@@ -20,6 +20,12 @@ Currently, a high school student. I am a passionate full-stack developer and com
 - **DailySAT** ([www.dailysat.org](http://www.dailysat.org))
   - Purpose: Question bank help students practice for the SAT (American college entrance exam)
   - Growth: Over 6k users in a very short time period
+  - Legally registered as a 501(c)3 in US with headquarters in Georgia, United States (for now)
+ 
+- **Everyone Classroom**
+  - Purpose: An online LMS system built for STEM students BY STEM students!
+  - Key Features: Included SketchFab modeling for engineering students, Github integreation for instructors to share code and Youtube embedding
+  - Built when I was in Grade 8/Grade 9 (earliest main-stream project of mines)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemit-patel-383ab3271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hemitdev) 
