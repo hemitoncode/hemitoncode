@@ -17,7 +17,7 @@ Currently, a high school student. I am a passionate full-stack developer and com
   - Architecture: Built on gRPC for optimal server-to-server communication with the main NextJS project (TRASHIFY)
   - Technology: Integrated AI using SciKit Learn in Python
 
-- **DailySAT.tech**
+- **DailySAT** ([www.dailysat.org](http://www.dailysat.org))
   - Purpose: Question bank help students practice for the SAT (American college entrance exam)
   - Growth: Over 6k users in a very short time period
 
