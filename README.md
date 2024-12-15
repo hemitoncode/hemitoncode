@@ -19,8 +19,7 @@ Currently, a high school student. I am a passionate full-stack developer and com
 
 - **DailySAT** ([www.dailysat.org](http://www.dailysat.org))
   - Purpose: Question bank help students practice for the SAT (American college entrance exam)
-  - Growth: Over 6k users in a very short time period
-  - Legally registered as a 501(c)3 in US with headquarters in Georgia, United States (for now)
+  - Growth: Over 70k users have used my application
  
 - **Everyone Classroom**
   - Purpose: An online LMS system built for STEM students BY STEM students!
