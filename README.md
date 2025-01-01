@@ -1,7 +1,19 @@
 # Hi 👋🏽 It's Hemit...
 
 # 💫 About Me:
-Currently, a high school student. I am a passionate full-stack developer and computer engineer from Toronto, Canada. I have been coding since the age of 10 (2019) and have a strong understanding in React and NodeJS.<br><br>🔭 I’m currently working on ... React/React Native projects<br>🌱 I’m currently learning ... Typescript, Python and CLOUD (AWS), Python for competitive programming, Arudino (C++ alongside) <br>👯 I’m looking to collaborate on ... Web/React Native projects<br>💬 Ask me about ... full-stack development<br>📫 How to reach me: ... hemitvpatel@gmail.com
+Currently, a high school student. I am a passionate full-stack developer and hardware enthusiastfrom Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can be used to remove bad genes that cause cancer, as one of the causes of cancers is genes.
+
+I have been coding since the age of 10 (2019) and have a strong understanding in React and NodeJS.<br><br>🔭 
+
+I’m currently working on ... React/React Native projects<br>🌱 
+
+I’m currently learning ... Typescript, Python and CLOUD (AWS), Python for competitive programming, Arudino (C++ alongside) <br>👯
+
+I’m looking to collaborate on ... Web/React Native projects<br>💬 Ask me about ... full-stack development<br>📫 
+
+How to reach me: ... 
+- hemitvpatel@gmail.com
+- hemit@dailysat.org 
 
 ## Proudest Projects
 
