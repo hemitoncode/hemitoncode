@@ -32,6 +32,7 @@ How to reach me: ...
 - **DailySAT** ([www.dailysat.org](http://www.dailysat.org))
   - Purpose: Question bank help students practice for the SAT (American college entrance exam)
   - Growth: Over 70k users have used my application
+  - Funding: Raised around 600 USD
  
 - **Everyone Classroom**
   - Purpose: An online LMS system built for STEM students BY STEM students!
