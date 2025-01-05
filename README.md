@@ -1,13 +1,13 @@
 # Hi 👋🏽 It's Hemit...
 
 # 💫 About Me:
-Currently, a high school student. I am a passionate full-stack developer and hardware enthusiastfrom Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can be used to remove bad genes that cause cancer, as one of the causes of cancers is genes.
+Currently, a high school student. I am a passionate full-stack developer and hardware enthusiast from Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can hopefully used to remove bad genes that cause cancer, as one of the causes of cancers is genetics. Alongside, I hope to start a web development agency as a "side hustle" 
 
 I have been coding since the age of 10 (2019) and have a strong understanding in React and NodeJS🔭 
 
 I’m currently working on ... React/React Native projects🌱 
 
-I’m currently learning ... Typescript, Python and CLOUD (AWS), Python for competitive programming, Arudino (C++ alongside) 👯
+I’m currently learning ... Typescript, Python and CLOUD (AWS), Python for competitive programming, MATLAB (for medical research) 👯
 
 I’m looking to collaborate on ... Web/React Native projects💬 Ask me about ... full-stack development📫 
 
