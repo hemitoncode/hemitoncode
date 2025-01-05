@@ -17,7 +17,7 @@ How to reach me: ...
 
 ## Proudest Projects
 
-- **Talem** ([www.talem.org](http://www.talem.org))
+- **Talem** ([Check it out](http://www.talem.org))
   - Achievements: Over 200k lifetime users, 400 daily active users
   - Funding: Raised over $3k
 
@@ -29,7 +29,7 @@ How to reach me: ...
   - Architecture: Built on gRPC for optimal server-to-server communication with the main NextJS project (TRASHIFY)
   - Technology: Integrated AI using SciKit Learn in Python
 
-- **DailySAT** ([www.dailysat.org](http://www.dailysat.org))
+- **DailySAT** ([Check it out](http://www.dailysat.org)) ([Check it out](http://www.dailysat.tech))
   - Purpose: Question bank help students practice for the SAT (American college entrance exam)
   - Growth: Over 70k users have used my application
   - Funding: Raised around 600 USD
