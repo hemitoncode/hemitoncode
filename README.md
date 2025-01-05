@@ -30,6 +30,7 @@ How to reach me: ...
   - Technology: Integrated AI using SciKit Learn in Python
 
 - **DailySAT** ([Check it out](http://www.dailysat.org)) ([Check it out](http://www.dailysat.tech))
+  - There are 2 domains, hence we have 2 "Check it out" sections
   - Purpose: Question bank help students practice for the SAT (American college entrance exam)
   - Growth: Over 70k users have used my application
   - Funding: Raised around 600 USD
