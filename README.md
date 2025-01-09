@@ -38,6 +38,3 @@ Je suis actuellement lycéen. Je suis un développeur full-stack passionné et u
 - React
 - Node.js
 - JavaScript
-
-## 🏆 GitHub Stats | Statistiques GitHub
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hemit99123&theme=dark&hide_border=false)
