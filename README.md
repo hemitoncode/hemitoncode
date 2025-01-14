@@ -1,6 +1,6 @@
-# Hi 👋🏽 It's Hemit... | Bonjour 👋🏽 C'est Hemit...
-
 [English] | [Français]
+
+# Hi 👋🏽 It's Hemit... | Bonjour 👋🏽 C'est Hemit...
 
 # 💫 About Me | À Propos de Moi
 Currently, a high school student. I am a passionate full-stack developer and hardware enthusiast from Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can hopefully used to remove bad genes that cause cancer, as one of the causes of cancers is genetics. Alongside, I hope to start a web development agency as a "side hustle".
