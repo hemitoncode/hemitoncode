@@ -33,4 +33,5 @@ Currently, a high school student. I am a passionate full-stack developer and har
 - Firebase  
 - React  
 - Node.js  
-- JavaScript  
+- JavaScript
+- Vim/Vim Motions VSCode
