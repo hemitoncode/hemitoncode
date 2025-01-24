@@ -1,40 +1,42 @@
-[English] | [Français]
+# Hi 👋🏽 It's Hemit... 
 
-# Hi 👋🏽 It's Hemit... | Bonjour 👋🏽 C'est Hemit...
+# 💫 About Me  
+Currently, a high school student. I am a passionate full-stack developer and hardware enthusiast from Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can hopefully be used to remove bad genes that cause cancer, as one of the causes of cancer is genetics. Alongside, I hope to start a web development agency as a "side hustle."
 
-# 💫 About Me | À Propos de Moi
-Currently, a high school student. I am a passionate full-stack developer and hardware enthusiast from Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can hopefully used to remove bad genes that cause cancer, as one of the causes of cancers is genetics. Alongside, I hope to start a web development agency as a "side hustle".
+# 🔭 Current Projects  
+- React/React Native projects  
+- Learning Typescript, Python, AWS  
+- MATLAB for medical research  
 
-Je suis actuellement lycéen. Je suis un développeur full-stack passionné et un passionné de matériel informatique de Toronto, Canada. Mon rêve est de travailler avec les ordinateurs pour aider à la modification génétique. Ces modifications peuvent, je l'espère, être utilisées pour éliminer les mauvais gènes qui causent le cancer, car l'une des causes du cancer est génétique. Parallèlement, j'espère créer une agence de développement web comme "activité secondaire".
+## Proudest Projects  
+- **Talem** ([Check it out](http://www.talem.org))  
+  - 200k+ lifetime users  
+  - $3k funding  
 
-# 🔭 Current Projects | Projets Actuels
-- React/React Native projects | Projets React/React Native
-- Learning Typescript, Python, AWS | Apprentissage de Typescript, Python, AWS
-- MATLAB for medical research | MATLAB pour la recherche médicale
+- **Trashify**  
+  - Database optimization  
+  - 30ms API response time  
 
-## Proudest Projects | Projets Les Plus Fiers
-- **Talem** ([Check it out | Découvrez-le](http://www.talem.org))
-  - 200k+ lifetime users | utilisateurs à vie
-  - $3k funding | financement
+- **DailySAT** ([Check it out](http://www.dailysat.tech))  
+  - 70k+ users  
+  - $600 funding  
 
-- **Trashify**
-  - Database optimization | Optimisation de base de données
-  - 30ms API response time | temps de réponse API
+## Current Projects
 
-- **DailySAT** ([Check it out | Découvrez-le](http://www.dailysat.tech))
-  - 70k+ users | utilisateurs
-  - $600 funding | financement
+- **DailySAT**
+- **StockSavvy**
+- **Practice for coding problems**
 
-## 🌐 Contact
-- hemitvpatel@gmail.com
-- hemit@dailysat.org
+## 🌐 Contact  
+- hemitvpatel@gmail.com  
+- hemit@dailysat.org  
 
-## 💻 Tech Stack | Stack Technique
-- TypeScript
-- Python
-- MongoDB
-- MySQL
-- Firebase
-- React
-- Node.js
-- JavaScript
+## 💻 Tech Stack  
+- TypeScript  
+- Python  
+- MongoDB  
+- MySQL  
+- Firebase  
+- React  
+- Node.js  
+- JavaScript  
