@@ -4,9 +4,9 @@
 Currently, a high school student. I am a passionate full-stack developer and hardware enthusiast from Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can hopefully be used to remove bad genes that cause cancer, as one of the causes of cancer is genetics. Alongside, I hope to start a web development agency as a "side hustle."
 
 # 🔭 Current Projects  
-- React/React Native projects  
-- Learning Typescript, Python, AWS  
-- MATLAB for medical research  
+- **DailySAT**
+- **StockSavvy**
+- **Practice for coding problems**
 
 ## Proudest Projects  
 - **Talem** ([Check it out](http://www.talem.org))  
@@ -20,12 +20,6 @@ Currently, a high school student. I am a passionate full-stack developer and har
 - **DailySAT** ([Check it out](http://www.dailysat.tech))  
   - 70k+ users  
   - $600 funding  
-
-## Current Projects
-
-- **DailySAT**
-- **StockSavvy**
-- **Practice for coding problems**
 
 ## 🌐 Contact  
 - hemitvpatel@gmail.com  
