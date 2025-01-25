@@ -5,6 +5,8 @@ Currently, a high school student. I am a passionate developer from Toronto, Cana
 
 My goals for the close future are to start reserach within biological application using computer tools like MATLAB :)
 
+#### 📚 School: Castlebrooke Secondary School
+
 # 🔭 Current Projects/Goals for CS  
 - **DailySAT**
 - **StockSavvy**
