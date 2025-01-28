@@ -9,6 +9,7 @@ My goals for the close future are to start reserach within biological applicatio
 
 # 🔭 Current Projects/Goals for CS  
 - **DailySAT**
+- **Talem**
 - **StockSavvy**
 - **Practice for coding problems**
 
