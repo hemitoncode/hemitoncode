@@ -39,3 +39,7 @@ My goals for the close future are to start reserach within biological applicatio
 - Node.js  
 - JavaScript
 - Vim/Vim Motions VSCode
+- Jest
+- Unit testing
+- CI/CD
+- Github Actions
