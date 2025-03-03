@@ -3,7 +3,7 @@
 # 💫 About Me  
 Currently, a high school student. I am a passionate developer from Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can hopefully be used to remove bad genes that cause cancer, as one of the causes of cancer is genetics. Alongside, I hope to start a web development agency as a "side hustle."
 
-My goals for the close future are to start reserach within biological application using computer tools like MATLAB :)
+My goals for the close future are to start reserach within medical and AI intersectional fields. 
 
 #### 📚 School: Castlebrooke Secondary School
 
