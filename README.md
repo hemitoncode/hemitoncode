@@ -10,6 +10,7 @@ My goals for the close future are to start reserach within medical and AI inters
 # 🔭 Current Projects/Goals for CS  
 - **DailySAT**
 - **StockSavvy**
+- **Talem**
 - **Practice for coding problems**
 
 ## Proudest Projects  
