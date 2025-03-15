@@ -7,7 +7,7 @@ My goals for the close future are to start reserach within medical and AI inters
 
 #### 📚 School: Castlebrooke Secondary School
 
-# 🔭 Current Projects/Goals for CS  
+# 🔭 Current Goals:
 - **DailySAT**
 - **StockSavvy**
 - **Talem**
