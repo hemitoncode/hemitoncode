@@ -5,6 +5,10 @@ Currently, a high school student. I am a passionate developer from Toronto, Cana
 
 My goals for the close future are to start reserach within medical and AI intersectional fields. 
 
+### 📊 My Ranking:
+
+<img src="https://gitroll.io/api/badges/profiles/v1/uCJxMsvKjExV60pkdcmEYDDLB5aX2?theme=dark" alt="GitRoll Profile Badge" width="500" height="auto"/>
+
 #### 📚 School: Castlebrooke Secondary School
 
 # 🔭 Current Goals:
