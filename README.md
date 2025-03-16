@@ -1,4 +1,4 @@
-# Hi 👋🏽 It's Hemit... 
+![alt text](https://media.licdn.com/dms/image/v2/D5616AQEntWb0GvixXg/profile-displaybackgroundimage-shrink_350_1400/B56ZWLrrePGQAY-/0/1741805238773?e=1747872000&v=beta&t=q-88RFc2PIhJ_marfckV1t0mTl4h6mzUiSyISUXcqHY)
 
 # 💫 About Me  
 Currently, a high school student. I am a passionate developer from Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can hopefully be used to remove bad genes that cause cancer, as one of the causes of cancer is genetics. Alongside, I hope to start a web development agency as a "side hustle."
