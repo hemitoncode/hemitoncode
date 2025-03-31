@@ -1,50 +1,88 @@
-![alt text](https://media.licdn.com/dms/image/v2/D5616AQEntWb0GvixXg/profile-displaybackgroundimage-shrink_350_1400/B56ZWLrrePGQAY-/0/1741805238773?e=1747872000&v=beta&t=q-88RFc2PIhJ_marfckV1t0mTl4h6mzUiSyISUXcqHY)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hemit99123.hemit99123" />
 
-# 💫 About Me  
-Currently, a high school student. I am a developer from Toronto, Canada. My dream is to work with computers to aid in genetic modification. These modifications can hopefully be used to remove bad genes that cause cancer, as one of the causes of cancer is genetics. Alongside, I hope to start a web development agency as a "side hustle."
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hemit+Patel!;" />
+</h1>
 
-My goals for the close future are to start reserach within medical and AI intersectional fields. 
+<h3 align="center">A Software/Hardware Engineer from Canada 🇨🇦🍁</h3>
 
-### 📊 My Ranking:
+<br/>
 
-<img src="https://gitroll.io/api/badges/profiles/v1/uCJxMsvKjExV60pkdcmEYDDLB5aX2?theme=dark" alt="GitRoll Profile Badge" width="500" height="auto"/>
+<div align="center">
+ 
+ 🔭 I’m currently working **DailySAT**, **StockSavvy**, and **Talem**
+ 
+ 🌱 I’m currently learning **Arudino,Docker,Software Designing (Flowcharts)**
 
-#### 📚 School: Castlebrooke Secondary School
+💬 Ask me about **Node.js, React, SQL... or anything [here](https://github.com/hemit99123/hemit99123/issues)**
 
-# 🔭 Current Goals:
-- **DailySAT**
-- **StockSavvy**
-- **Talem**
-- **Practice for coding problems**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-## Proudest Projects  
-- **Talem** ([Check it out](http://www.talem.org))  
-  - 200k+ lifetime users  
-  - $3k funding  
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-- **Trashify**  
-  - Database optimization  
-  - 30ms API response time  
+<br/>
 
-- **DailySAT** ([Check it out](http://www.dailysat.tech))  
-  - 70k+ users  
-  - $600 funding  
+<div>
+  <h2 align="center">💼 My Projects 💼</h2>
 
-## 🌐 Contact  
-- hemitvpatel@gmail.com  
-- hemit@dailysat.org  
+  <ul>
+    <li>
+      <strong><a href="http://www.talem.org" target="_blank">🏛️ Talem</a></strong>  
+      <ul>
+        <li>200k+ lifetime users</li>
+        <li>$3k funding</li>
+      </ul>
+    </li>
+    <br>
+    <li>
+      <strong>🗑️ Trashify</strong>  
+      <ul>
+        <li>Database optimization</li>
+        <li>30ms API response time</li>
+      </ul>
+    </li>
+    <br>
+    <li>
+      <strong><a href="http://www.dailysat.tech" target="_blank">📝 DailySAT</a></strong>  
+      <ul>
+        <li>70k+ users</li>
+        <li>$600 funding</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
-## 💻 Tech Stack  
-- TypeScript  
-- Python  
-- MongoDB  
-- MySQL  
-- Firebase  
-- React  
-- Node.js  
-- JavaScript
-- Vim/Vim Motions VSCode
-- Jest
-- Unit testing
-- CI/CD
-- Github Actions
+
+<br />
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hemit99123&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=hemit99123&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hemit99123&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<br/>
+<br/>
