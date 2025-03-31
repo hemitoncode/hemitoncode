@@ -74,7 +74,11 @@
 <br />
 
 <h2>🐍 Contributions 🐍</h2>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
