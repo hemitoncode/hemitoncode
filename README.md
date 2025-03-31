@@ -73,10 +73,6 @@
 
 <br />
 
-<h2>🐍 Contributions 🐍</h2>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hemit99123/hemit99123/output/github-contribution-grid-snake.svg" />
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
