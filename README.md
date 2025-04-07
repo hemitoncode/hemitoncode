@@ -67,6 +67,7 @@
         <li>$600 funding</li>
       </ul>
     </li>
+    <br >
     <li>
       <strong>💸 StockSavvy</strong>  
       <ul>
