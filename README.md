@@ -71,7 +71,7 @@
       <strong>💸 StockSavvy</strong>  
       <ul>
         <li>Custom built role-based session authentication</li>
-        <li>Created my first production level NodeJS server</li>
+        <li>Created my best production level NodeJS server</li>
       </ul>
     </li>
   </ul>
