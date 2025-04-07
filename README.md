@@ -67,6 +67,13 @@
         <li>$600 funding</li>
       </ul>
     </li>
+    <li>
+      <strong>💸 StockSavvy</strong>  
+      <ul>
+        <li>Custom built role-based session authentication</li>
+        <li>Created my first production level NodeJS server</li>
+      </ul>
+    </li>
   </ul>
 </div>
 
