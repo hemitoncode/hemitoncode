@@ -9,12 +9,7 @@
  🔭 I’m currently working **DailySAT**, **StockSavvy**, and **Talem**
  
  🤖 Previous Intern @ GharMates
- 
- 🌱 I’m currently learning **Arudino,Docker,Software Designing (Flowcharts)**
-
-💬 Ask me about **Node.js, React, SQL... or anything [here](https://github.com/hemit99123/hemit99123/issues)**
-
- </div>
+  </div>
  
 <div align="center"> 
   <a href="mailto:hemitvpatel@gmail.com">
