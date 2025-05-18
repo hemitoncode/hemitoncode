@@ -2,13 +2,12 @@
     <img src="image.png" />
 </h1>
 
-<h3 align="center">A Software/Hardware Engineer from Canada 🇨🇦🍁</h3>
-
 <br/>
 
 <div align="center">
  
  🔭 I’m currently working **DailySAT**, **StockSavvy**, and **Talem**
+ 🤖 Previous Intern @ GharMates
  
  🌱 I’m currently learning **Arudino,Docker,Software Designing (Flowcharts)**
 
