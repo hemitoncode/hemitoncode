@@ -7,6 +7,7 @@
 <div align="center">
  
  🔭 I’m currently working **DailySAT**, **StockSavvy**, and **Talem**
+ 
  🤖 Previous Intern @ GharMates
  
  🌱 I’m currently learning **Arudino,Docker,Software Designing (Flowcharts)**
