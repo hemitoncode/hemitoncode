@@ -79,7 +79,7 @@
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=hemit99123&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemit99123&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages"/>
-
+    <a href="https://gitroll.io/profile/uCJxMsvKjExV60pkdcmEYDDLB5aX2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCJxMsvKjExV60pkdcmEYDDLB5aX2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 </div>
 
 <br/><br/>
