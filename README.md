@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./assets/image.png" />
+    <img src="image.png" />
 </h1>
 
 <h3 align="center">A Software/Hardware Engineer from Canada 🇨🇦🍁</h3>
