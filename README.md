@@ -8,7 +8,7 @@
  
  🔭 I’m currently working **DailySAT**, **StockSavvy**, and **Talem**
  
- 🤖 Previous Intern @ GharMates
+ 🤖 Previous Intern @ **GharMates**
   </div>
  
 <div align="center"> 
