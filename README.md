@@ -7,6 +7,7 @@
 <div align="center">
  
  🔭 I’m currently working **DailySAT**, **StockSavvy**, and **Talem**
+ 👩‍💻 CB Hacks '25 
  
  🤖 Previous Intern @ **GharMates**
   </div>
