@@ -65,7 +65,7 @@
       <li>
       <strong><a target="_blank">🎓 Mentora</a></strong>  
       <ul>
-        <li>Finetuned model to prodice grading feedback</li>
+        <li>Finetuned model to produce grading feedback</li>
         <li>Designed a personalization algorithm which finds how well you peeformed in different aspects of essay writing. This data is take into consideration by the grader.</li>
       </ul>
     </li>
