@@ -62,6 +62,7 @@
         <li>$600 funding</li>
       </ul>
     </li>
+    <br>
       <li>
       <strong><a target="_blank">🎓 Mentora</a></strong>  
       <ul>
