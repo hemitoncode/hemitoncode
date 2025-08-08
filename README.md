@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working **DailySAT**, **StockSavvy**, and **Talem**
+ 🔭 I’m currently working **DailySAT**, **MyStocks Africa** and **Talem**
  <br>
  👩‍💻 CB Hacks '25 Winner
  
