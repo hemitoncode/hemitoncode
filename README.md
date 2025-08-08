@@ -8,9 +8,12 @@
  
  🔭 I’m currently working **DailySAT**, **MyStocks Africa** and **Talem**
  <br>
- 👩‍💻 CB Hacks '25 Winner
+<h2>😎 Cool Experience 😎</h2>
  
+ 👩‍💻 CB Hacks '25 Winner
  🤖 Previous Intern @ **GharMates**
+ 💹 SDE I @ mystocks.africa 
+ 
   </div>
  
 <div align="center"> 
@@ -26,11 +29,11 @@
 </div>
 
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php" />
+<br>
 </div>
 
 <br/>
