@@ -11,7 +11,9 @@
 <h2>😎 Cool Experience 😎</h2>
  
  👩‍💻 CB Hacks '25 Winner
+ <br>
  🤖 Previous Intern @ **GharMates**
+ <br>
  💹 SDE I @ mystocks.africa 
  
   </div>
