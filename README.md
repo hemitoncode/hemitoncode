@@ -1,107 +1,27 @@
-<h1 align="center">
-    <img src="image.png" />
-</h1>
+<h1 align="center">Hi 👋, I'm Hemit Patel!</h1>
+<h3 align="center">A developer from Canada 🇨🇦🔥</h3>
 
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemit99123" alt="hemit99123" /></a> </p>
 
-<div align="center">
- 
- 🔭 I’m currently working **DailySAT**, **MyStocks Africa** and **Talem**
- <br>
-<h2>😎 Cool Experience 😎</h2>
- 
- 👩‍💻 CB Hacks '25 Winner
- <br>
- 🤖 Previous Intern @ **GharMates**
- <br>
- 💹 SDE I @ mystocks.africa 
- 
-  </div>
- 
-<div align="center"> 
-  <a href="mailto:hemitvpatel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/hemit-patel-383ab3271/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://hemitpatel.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+- 🔭 I’m currently working on **dailysat + talem**
 
- 
-<h2 align="center">⚒️ Languages ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php" />
-<br>
-</div>
+- 🌱 I’m currently learning **Kotlin, Android app development, AI**
 
-<br/>
+- 👨‍💻 All of my projects are available at [hemitpatel.com](hemitpatel.com)
 
-<div>
-  <h2 align="center">💼 My Projects 💼</h2>
+- 💬 Ask me about **web dev + php**
 
-  <ul>
-    <li>
-      <strong><a href="http://www.talem.org" target="_blank">🏛️ Talem</a></strong>  
-      <ul>
-        <li>200k+ lifetime users</li>
-        <li>$3k funding</li>
-      </ul>
-    </li>
-    <br>
-    <li>
-      <strong>🗑️ Trashify</strong>  
-      <ul>
-        <li>Database optimization</li>
-        <li>30ms API response time</li>
-      </ul>
-    </li>
-    <br>
-    <li>
-      <strong><a href="http://www.dailysat.tech" target="_blank">📝 DailySAT</a></strong>  
-      <ul>
-        <li>70k+ users</li>
-        <li>$600 funding</li>
-      </ul>
-    </li>
-    <br>
-      <li>
-      <strong><a target="_blank">🎓 Mentora</a></strong>  
-      <ul>
-        <li>Finetuned model to produce grading feedback</li>
-        <li>Designed a personalization algorithm which finds how well you peeformed in different aspects of essay writing. This data is take into consideration by the grader.</li>
-      </ul>
-    </li>
-    <br >
-    <li>
-      <strong>💸 StockSavvy</strong>  
-      <ul>
-        <li>Custom built role-based session authentication</li>
-        <li>Created my best production level NodeJS server</li>
-      </ul>
-    </li>
-  </ul>
-</div>
+- 📫 How to reach me **hemitvpatel [at] gmail [dot] com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=hemit99123&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemit99123&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages"/>
-    <img 
-        src="https://gitroll.io/api/badges/profiles/v1/uCJxMsvKjExV60pkdcmEYDDLB5aX2?theme=tokyoNight" 
-        alt="GitRoll Profile Badge" 
-        style="width: 450px; height: auto;"
-    />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemit99123&show_icons=true&locale=en&layout=compact" alt="hemit99123" /></p>
 
-<br/><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemit99123&show_icons=true&locale=en" alt="hemit99123" /></p>
 
-<br/>
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemit99123&" alt="hemit99123" /></p>
