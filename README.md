@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **dailysat + talem**
 
-- 🌱 I’m currently learning **Kotlin, Android app development, AI**
+- 🌱 I’m currently learning **Java, AI-assisted development**
 
 - 👨‍💻 All of my projects are available at [hemitpatel.com](hemitpatel.com)
 
