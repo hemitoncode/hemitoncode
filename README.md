@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemit Patel!</h1>
 <h3 align="center">A developer from Canada 🇨🇦🔥</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemit99123" alt="hemit99123" /></a> </p>
-
 - 🔭 I’m currently working on **dailysat + talem**
 
 - 🌱 I’m currently learning **Java, AI-assisted development**
