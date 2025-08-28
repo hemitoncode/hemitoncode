@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **dailysat + talem**
 
-- 🌱 I’m currently learning **Java, AI-assisted development**
+- 🌱 I’m currently learning **Go, AI-assisted development**
 
 - 👨‍💻 All of my projects are available at [hemitpatel.com](hemitpatel.com)
 
