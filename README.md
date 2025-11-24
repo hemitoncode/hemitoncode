@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Next Voters <br>👯‍♀️ I'm looking to collaborate on AI products <br>🤝 I'm looking for help with linear algebra and its application in semantic similarity of vector embedding.<br>🌱 I'm currently learning NextJS, JavaScript, Python<br>💬 Ask me about software development
+🔭 I'm currently working on Next Voters <br>👯‍♀️ I'm looking to collaborate on AI products.<br>🌱 I'm currently learning NextJS, JavaScript, Python<br>💬 Ask me about software development
 
 
 ## 🌐 Socials:
