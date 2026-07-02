@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently looking for Summer 2026 Internships <br>👯‍♀️ I'm looking to collaborate on AI products.<br>🌱 I'm currently learning NextJS, JavaScript, Python<br>💬 Ask me about software development
+👯‍♀️ I'm looking to collaborate on AI products.<br>🌱 I'm currently learning NextJS, JavaScript, Python<br>💬 Ask me about software development
 
 
 ## 🌐 Socials:
